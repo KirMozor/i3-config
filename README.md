@@ -1,6 +1,6 @@
 # My i3-config
 
-![Result]("https://raw.githubusercontent.com/KirMozor/i3-config/main/screen.png")
+https://raw.githubusercontent.com/KirMozor/i3-config/main/screen.png
 
 For correct work it is necessary to put `screengrab` (a program for creating screenshots)
 And put `polybar` (dock)
