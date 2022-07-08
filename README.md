@@ -1,4 +1,5 @@
 # My i3-config
+## Repository moved to [GitLab](https://gitlab.com/KirMozor/i3-config)
 
 https://raw.githubusercontent.com/KirMozor/i3-config/main/screen.png
 
